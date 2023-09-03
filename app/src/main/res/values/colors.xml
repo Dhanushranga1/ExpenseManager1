@@ -7,4 +7,5 @@
     <color name="dashboard_color">#DA633D</color>
     <color name="income_color">#96be25</color>
     <color name="expense_color">#E53935</color>
+    <color name="nav_header">#5088ad</color>
 </resources>
